@@ -23,7 +23,7 @@
 				$('<input type="button" onclick="laheta()" style="margin-left: 25%; margin-top: 11px;" value="submit" />' ).appendTo( "#lomake" );
 						});
 
-
+			//tämä kohta ei toimi vielä.
 				function laheta() {
 					var sukupuoli;
 							
