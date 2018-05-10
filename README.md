@@ -1,9 +1,9 @@
-HelgaLomake0.4
+# HelgaLomake0.4
 # Haaga-Helia_Tapahtumakysely
 10.05.2018 - Viimeisin versio
 ^ Sivustolta puuttuu datan lähetys takaisin OHTU:n REST API palvelimelle.
 
-# Haaga-Helia Tapahtumakysely - Digiprojekti 2018
+Haaga-Helia Tapahtumakysely - Digiprojekti 2018
 Tämä repository sisältää Innocasen kyselylomakkeen vaiheita kyselylomakkeen rakentamisesta alusta loppuun.
 
 GitHubia käytettiin hieman myöhässä kurssin lopussa.
