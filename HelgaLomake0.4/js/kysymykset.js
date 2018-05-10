@@ -1,5 +1,5 @@
 	var questionnaire = [];
-    $.getJSON( "http://www.mocky.io/v2/5ad47f8e2e00005900583b5b", function( data ) {
+    $.getJSON( "http://proto304.haaga-helia.fi:8080/kyselypalvelu/saveanswer/2", function( data ) {
 		var items = [];
         var questions = data.questions;	
         
